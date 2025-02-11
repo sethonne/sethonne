@@ -65,6 +65,6 @@ Feel free to reach out: sethonne.dev@gmail.com
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="figma" width="180" height="30"/> </a>
 </p>
 <hr/>
-<p align="center" width="100%"><img height="300" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sethonne&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img height="300"  width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sethonne&show_icons=true&theme=radical&show_icons=true&langs_count=6&locale=en&layout=compact" alt="samuel-bonghanoy" /></p>
+<p align="center" width="100%"><img height="300" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sethonne&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img height="300"  width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sethonne&show_icons=true&theme=radical&show_icons=true&langs_count=6&locale=en&layout=compact&hide=jupyter%20notebook" alt="samuel-bonghanoy" /></p>
 
 
