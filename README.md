@@ -5,7 +5,7 @@
 
 ### About me 🔍
 
-- 👨‍💻 I’m currently learning `Coolify` and `Self-hosting`
+- 👨‍💻 I’m currently learning `Coolify` and `Self-hosting.`
 - 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
 - 💪🏼 For 2025, I plan to dive deeper into `Cloud Services` and `DevOps`
 
