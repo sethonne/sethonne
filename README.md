@@ -3,27 +3,20 @@
 <h3 align="center"> developer | photographer | japanophile (google it)  </p> 
 <hr/>
 
-### About me 🔍
+### About
 
-- 👨‍💻 I’m currently learning `Coolify` and `Self-hosting`
-- 📸 I am a passionate photography hobbyist and lover of everything cinematic and theatrical.
-- 💪🏼 For 2025, I plan to dive deeper into `Cloud Services` and `DevOps`
+- I like self-hosting pretty much everything 
+- I do photography for fun
+- I like writing blog posts about tech and photography
 
 Feel free to reach out: sethonne.dev@gmail.com
 
-<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="MySQL" width="100" height="30"/> </a>
-<a href="https://open.spotify.com/user/samuleutan" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="MySQL" width="110" height="30"/> </a> -->
-<!-- <a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samuel-bonghanoy" height="30" width="110" /></a>
-<a href="https://github.com/Samuel-Bonghanoy" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="samuel-bonghanoy" height="30" width="90" /></a>
-</p> -->
-<p>Or check out my portfolio website: <a href="https://sethonne.dev">https://sethonne.dev</a> </p>
-
 <hr/>
 
-<h3 ><font size="32px">:wrench: Main Tech Stack</font></h2>
+<h3 ><font size="32px">Main Tech Stack</font></h2>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
-<h3 align="left">🕸️ Web Development</h4>
+<h3 align="left">And the others</h4>
 
 <p align="left"
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="30"/> </a>  
@@ -45,12 +38,6 @@ Feel free to reach out: sethonne.dev@gmail.com
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="MySQL" width=120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="MySQL" width=120" height="30"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="MySQL" width=100" height="30"/> </a>
-  
- 
-<!--    <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="MySQL" width=90" height="30"/> </a> -->
-
-<h3 align="left">💡 Workflow & Creative</h4>
-<p align="left">
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="illustrator" width="110" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="illustrator" width="110" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" alt="illustrator" width="110" height="30"/> </a>
@@ -61,10 +48,5 @@ Feel free to reach out: sethonne.dev@gmail.com
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="figma" width="95" height="30"/> </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="70" height="30"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="95" height="30"/> </a>   
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" width="180" height="30"/> </a>
-   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="figma" width="180" height="30"/> </a>
-</p>
-<hr/>
-<p align="center" width="100%"><img height="300" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sethonne&theme=radical&show_icons=true&locale=en" alt="samuel-bonghanoy" /> <img height="300"  width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sethonne&show_icons=true&theme=radical&show_icons=true&langs_count=6&locale=en&layout=compact&hide=jupyter%20notebook,tex,html,css" alt="samuel-bonghanoy" /></p>
 
 
