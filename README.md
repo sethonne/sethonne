@@ -1,6 +1,6 @@
 
 <p align="center"> <img align="center" src="ascii.gif" width="100%" /></p> 
-<h3 align="center"> developer | photographer | japanophile (google it)  </p> 
+<h3 align="center"> developer | photographer | cs nerd  </p> 
 <hr/>
 
 ### About
