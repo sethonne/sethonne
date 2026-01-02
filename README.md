@@ -7,7 +7,7 @@
 
 - I like self-hosting pretty much everything 
 - I do photography for fun
-- I like writing blog posts about tech and photography
+- I like writing blog posts about tech and photography (on hiatus)
 
 <hr/>
 
